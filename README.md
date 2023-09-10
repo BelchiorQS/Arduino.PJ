@@ -22,6 +22,6 @@ Junte-se a nós nesta emocionante jornada de exploração, inovação e diversã
 
 Licença:
 
-Todos os projetos neste repositório estão disponíveis sob uma licença [especifique a licença que deseja usar, por exemplo, MIT] para garantir a liberdade de uso e colaboração.
+Todos os projetos neste repositório estão disponíveis sob uma licença , MIT para garantir a liberdade de uso e colaboração.
 
 Aproveite sua visita e comece a explorar os projetos Arduino.PJ. Seja criativo e divirta-se!
